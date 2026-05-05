@@ -5,7 +5,7 @@ This repository serves as a comprehensive log of my journey through the Salesfor
 ### 📂 Directory Structure
 The repository is organized by weeks and days to ensure easy navigation:
 *   `Week 1` - Weekly overview and major milestones.
-    *   `Day 1` - Daily tasks, screenshots of output, and code snippets.
+       `Day 1` 
 
 ---
 
