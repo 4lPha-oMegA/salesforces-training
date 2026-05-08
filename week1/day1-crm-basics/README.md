@@ -16,6 +16,7 @@ CRM (Customer Relationship Management):** A technology for managing all company 
 Account: A company or organization you do business with (e.g., a hospital or university)
 Contact: An individual person associated with an Account
   Opportunity:A qualified deal or potential revenue-generating sale
+  ![snapshot1](.png)
 
  Real-Life Mapping: College Admission System
 Account: Vishnu Institute of Technology
