@@ -1,0 +1,53 @@
+# salesforces-training
+## 🚀 About This Repository
+This repository serves as a comprehensive log of my journey through the Salesforce training program. It includes daily progress, hands-on exercise codes, and documentation of badges earned on Trailhead.
+
+### 📂 Directory Structure
+The repository is organized by weeks and days to ensure easy navigation:
+*   `Week 1` - Weekly overview and major milestones.
+       `Day 1`# Day 1: CRM Fundamentals & Business Logic 🚀
+
+ Day 1: CRM Fundamentals & Business Logic 
+
+Overview
+Understood the core purpose of Salesforce as a CRM platform and practiced the standard business lead-to-customer lifecycle
+Key Concepts
+CRM (Customer Relationship Management):** A technology for managing all company relationships and interactions with customers to improve business relationships[cite: 95, 109, 148].
+Account: A company or organization you do business with (e.g., a hospital or university)
+Contact: An individual person associated with an Account
+  Opportunity:A qualified deal or potential revenue-generating sale
+
+ Real-Life Mapping: College Admission System
+Account: Vishnu Institute of Technology
+Lead:A student who fills out an inquiry form.
+Contact: The specific student applicant
+Opportunity: The specific admission seat or fee payment process
+
+
+  
+
+---
+
+## 📅 Training Progress Tracker
+
+| Week | Status | Key Learning / Modules |
+| :--- | :--- | :--- |
+| **Week 1** | 🟡 In Progress | Trailhead Setup, Salesforce Ecosystem, Admin Basics |
+
+
+---
+
+## 🛠️ Tools & Technologies
+*   **Platform:** Salesforce Lightning
+*   **IDE:** VS Code with Salesforce Extension Pack
+*   **Version Control:** Git & GitHub
+*   **Documentation:** Markdown
+
+---
+
+## 🔗 Quick Links
+- [Trailhead Home](https://trailhead.salesforce.com/)
+- [Salesforce Developer Documentation](https://developer.salesforce.com/docs)
+
+---
+*Last Updated: May 5, 2026*
