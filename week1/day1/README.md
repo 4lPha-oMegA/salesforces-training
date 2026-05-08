@@ -28,26 +28,4 @@ Opportunity: The specific admission seat or fee payment process
 
 ---
 
-## 📅 Training Progress Tracker
 
-| Week | Status | Key Learning / Modules |
-| :--- | :--- | :--- |
-| **Week 1** | 🟡 In Progress | Trailhead Setup, Salesforce Ecosystem, Admin Basics |
-
-
----
-
-## 🛠️ Tools & Technologies
-*   **Platform:** Salesforce Lightning
-*   **IDE:** VS Code with Salesforce Extension Pack
-*   **Version Control:** Git & GitHub
-*   **Documentation:** Markdown
-
----
-
-## 🔗 Quick Links
-- [Trailhead Home](https://trailhead.salesforce.com/)
-- [Salesforce Developer Documentation](https://developer.salesforce.com/docs)
-
----
-*Last Updated: May 5, 2026*
