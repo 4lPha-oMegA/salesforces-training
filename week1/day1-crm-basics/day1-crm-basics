@@ -3,7 +3,9 @@
 Overview
 Understood the core purpose of Salesforce as a CRM platform and practiced the standard business lead-to-customer lifecycle
 Key Concepts
-CRM (Customer Relationship Management):** A technology for managing all company relationships and interactions with customers to improve business relationships[cite: 95, 109, 148].
+A technology for managing all your company’s relationships and interactions with customers and potential customers.
+
+CRM (Customer Relationship Management):** A technology for managing all company relationships and interactions with customers to improve business relationships.
 
 TASK - 1
 Account: A company or organization you do business with (e.g., a hospital or university)
@@ -12,10 +14,11 @@ Opportunity:A qualified deal or potential revenue-generating sale
 -----------------------------------------------------------------------------------------------------------------------------
 TASK - 2
  Real-Life Mapping: College Admission System
-Account: Vishnu Institute of Technology
-Lead:A student who fills out an inquiry form.
-Contact: The specific student applicant
-Opportunity: The specific admission seat or fee payment process
+-> Map these concepts to a College Admission System:
+Account: The University -> Vishnu Institute of Technology
+Lead: An inquiring student.  
+Contact: The student applicant.  
+Opportunity: The admission/fee process. 
 ------------------------------------------------------------------------------------------------------------------------------
 
 
