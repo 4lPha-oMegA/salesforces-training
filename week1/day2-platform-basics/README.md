@@ -84,19 +84,19 @@ User Interaction: Faculty will log in to update student grades and attendance re
 
 
 
-!\[Snapshot1] (s7.png)
+!\[Snapshot1](s7.png)
 
-!\[Snapshot2] (s6.png)
+!\[Snapshot2](s6.png)
 
-!\[Snapshot3] (s5.png)
+!\[Snapshot3](s5.png)
 
-!\[Snapshot4] (s4.png)
+!\[Snapshot4](s4.png)
 
-!\[Snapshot5] (s3.png)
+!\[Snapshot5](s3.png)
 
-!\[Snapshot6] (s2.png)
+!\[Snapshot6](s2.png)
 
-!\[Snapshot7] (s1.png)
+!\[Snapshot7](s1.png)
 
 
 
