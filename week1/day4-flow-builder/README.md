@@ -48,3 +48,12 @@ Day 4: Process Automation with Flow Builder
  Companies automate repetitive processes to improve productivity and ensure data consistency. 
  No-code automation is powerful because it allows business analysts to build and maintain workflows quickly without waiting for expensive software development cycles.  
 
+Snapshots
+
+![Snapshot1](s1.png)
+![Snapshot2](s2.png)
+![Snapshot3](s3.png)
+![Snapshot4](s4.png)
+![Snapshot4](s5.png)
+![Snapshot6](s6.png)
+![Snapshot7](s7.png)
